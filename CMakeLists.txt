@@ -3,4 +3,4 @@ project(test_aigeqiu C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(test_aigeqiu main.c)
+add_executable(test_aigeqiu main.c lib/funcs.c lib/funcs.h)
