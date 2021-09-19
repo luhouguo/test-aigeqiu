@@ -5,6 +5,9 @@
 int test()
 {
     printf("testtesttesttesttesttesttest\n");
+    printf("testtesttesttesttesttesttest\n");
+    printf("testtesttesttesttesttesttest\n");
+    printf("testtesttesttesttesttesttest\n");
     return 0;
 }
 int main() {
