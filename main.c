@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#include "lib/funcs.h"
 
 
 int test()
@@ -9,6 +9,7 @@ int test()
 }
 int main() {
     test();
+    testll();
     printf("Hello, World!\n");
     printf("Hello, World!\n");
     printf("Hello, World!\n");
