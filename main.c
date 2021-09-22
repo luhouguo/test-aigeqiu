@@ -11,6 +11,11 @@ int test()
     return 0;
 }
 int main() {
+    printf("aigeqiu!\n");
+    printf("Hello, World!\n");
+    printf("Hello, World!\n");
+    printf("Hello, World!\n");
+    printf("Hello, World!Hello, World!Hello, World!\n");
     test();
     testll();
     printf("Hello, World!\n");
